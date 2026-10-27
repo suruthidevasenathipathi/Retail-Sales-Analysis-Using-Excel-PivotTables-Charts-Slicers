@@ -1,0 +1,2 @@
+# Retail-Sales-Analysis-Using-Excel-PivotTables-Charts-Slicers
+This project analyzes 300 retail sales records using Excel PivotTables, PivotCharts, and Slicers. It transforms raw data into meaningful summaries &amp; visual reports to evaluate sales performance, profitability, product trends, regional contributions, payment methods, sales channels, strengthening my skills in data analysis and interactive reporting.
